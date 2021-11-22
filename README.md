@@ -6,7 +6,7 @@
 # Description
 Programming Fundamentals is basic and and important concept for a computer science student.Management resources of store is key to flourish your store.We made a store managemnt system with categories and further sub-catergories.
 # Getting Sarted
-####Dependencies####
+#### Dependencies ####
 # Authors
 1. Waleed Gul\
 hwaleed0035@gmail.com
