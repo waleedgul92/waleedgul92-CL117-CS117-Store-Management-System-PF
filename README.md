@@ -23,8 +23,10 @@ Programming Fundamentals is basic and and important concept for a computer scien
 * Billing counter
 ### Manager ###
 # Authors
-1. Waleed Gul\
-hwaleed0035@gmail.com
+1. 
+​Waleed Gul<br> 
+ ​hwaleed0035@gmail.com<br> 
+ ​[​LinkedIn​](https://www.linkedin.com/in/muhammad-zain-ul-abiddin-83194a201/)
 2. Abdul-Hanan
 3. Zubair
 
