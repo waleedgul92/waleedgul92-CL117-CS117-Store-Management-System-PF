@@ -4,15 +4,15 @@
 # Description
 Programming Fundamentals is basic and and important concept for a computer science student.Management resources of store is key to flourish your store.We made a store managemnt system with categories and further sub-catergories.
 # Getting Sarted
-### Dependencies ###
+## Dependencies ##
 * Windows 10/Mac OS/Linux
-### Installing ###
+## Installing ##
 * Made in Dev-C++.
 * Need all files in repository.
-### Exexuting program ###
+## Exexuting program ##
 * Once all files are download, just compile and run the program.
-### Features ###
-#### * Client ####
+## Features ##
+### Client ###
           
 # Authors
 1. Waleed Gul\
