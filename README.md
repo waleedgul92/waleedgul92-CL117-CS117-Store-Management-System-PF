@@ -9,6 +9,6 @@ Programming Fundamentals is basic and and important concept for a computer scien
 # Authors
 Waleed Gul\
 Abdul-Hanan\
-Zubair\
+Zubair
 
 
