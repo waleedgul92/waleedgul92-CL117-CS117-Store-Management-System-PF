@@ -7,8 +7,10 @@ Programming Fundamentals is basic and and important concept for a computer scien
 #### Dependencies ####
 * Windows 10/Mac OS/Linux
 #### Installing ####
-* Made in Dev-C++
-* Need all files in repository
+* Made in Dev-C++.
+* Need all files in repository.
+#### Exexuting program ####
+* Once all files are download, just compile and run the program.
 # Authors
 1. Waleed Gul\
 hwaleed0035@gmail.com
