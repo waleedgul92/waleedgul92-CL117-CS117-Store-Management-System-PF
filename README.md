@@ -26,7 +26,7 @@ By pressing '1' you are a client and you can order as long as program is running
 * Billing counter
 ### Owner ###
 By pressing '2' , you are asked a password which is 'owner123' and then shows all remaning products from all categories.
-### Known Issues ###
+## Known Issues ##
 # Authors
 1. ​Waleed Gul<br> 
  ​hwaleed0035@gmail.com<br> 
