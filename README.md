@@ -12,7 +12,8 @@ Programming Fundamentals is basic and and important concept for a computer scien
 ### Exexuting program ###
 * Once all files are download, just compile and run the program.
 ### Features ###
-#### Client ####
+#### * Client ####
+          
 # Authors
 1. Waleed Gul\
 hwaleed0035@gmail.com
