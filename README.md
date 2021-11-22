@@ -16,10 +16,10 @@ Programming Fundamentals is basic and and important concept for a computer scien
 By pressing '1' you are a client and you can order as long as program is running.You can order from folling categories
 ![Screenshot 2021-11-22 213643](https://user-images.githubusercontent.com/84980384/142900007-f26d170d-6631-4963-ad10-cba7a01cabc2.png)
 * Fruits
-* ![Screenshot 2021-11-22 213826](https://user-images.githubusercontent.com/84980384/142900397-3a20e127-2f1e-4ead-8519-95dfca8ba0f5.png)*  Vegetables
-![Screenshot 2021-11-22 213920](https://user-images.githubusercontent.com/84980384/142900483-9c0c8aa1-a975-4e5c-9855-9ad85403596d.png)
+* ![Screenshot 2021-11-22 213826](https://user-images.githubusercontent.com/84980384/142900397-3a20e127-2f1e-4ead-8519-95dfca8ba0f5.png)
+* Vegetables
 * Beverages
-* Dairy Products![Screenshot 2021-11-22 214328](https://user-images.githubusercontent.com/84980384/142900935-e0023dbf-f53e-49a5-82f1-c3afd0441586.png)
+* Dairy Products
 
 * Kitchen Products
 * Bakery Products
