@@ -13,7 +13,7 @@ Programming Fundamentals is basic and and important concept for a computer scien
 * Once all files are download, just compile and run the program.
 # Authors
 1. Waleed Gul\
-hwaleed0035@gmail.com\
+hwaleed0035@gmail.com
 2. Abdul-Hanan
 3. Zubair
 
