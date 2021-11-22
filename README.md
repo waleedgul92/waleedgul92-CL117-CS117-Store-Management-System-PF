@@ -20,7 +20,8 @@ By pressing '1' you are a client and you can order as long as program is running
 * Vegetables
 * ![Screenshot 2021-11-22 213920](https://user-images.githubusercontent.com/84980384/142900483-9c0c8aa1-a975-4e5c-9855-9ad85403596d.png)
 * Dairy Products
-* Beverages
+* Beverages![Screenshot 2021-11-22 214328](https://user-images.githubusercontent.com/84980384/142900935-e0023dbf-f53e-49a5-82f1-c3afd0441586.png)
+
 * Kitchen Products
 * Bakery Products
 * Bathroom Products
