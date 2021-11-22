@@ -30,7 +30,7 @@ By pressing '2' , you are asked a password which is 'owner123' and then shows al
 # Authors
 1. ​Waleed Gul<br> 
  ​hwaleed0035@gmail.com<br> 
- ​[​LinkedIn​](www.linkedin.com/in/waleed-gul-9248881b3/)
+ ​[​LinkedIn​](https://www.linkedin.com/in/waleed-gul-9248881b3/)
 2. Abdul-Hanan
 3. Zubair
 
