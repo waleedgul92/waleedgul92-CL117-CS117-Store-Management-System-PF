@@ -26,7 +26,7 @@ Programming Fundamentals is basic and and important concept for a computer scien
 1. 
 ​Waleed Gul<br> 
  ​hwaleed0035@gmail.com<br> 
- ​[​LinkedIn​](https://www.linkedin.com/in/muhammad-zain-ul-abiddin-83194a201/)
+ ​[​LinkedIn​](www.linkedin.com/in/waleed-gul-9248881b3/)\
 2. Abdul-Hanan
 3. Zubair
 
