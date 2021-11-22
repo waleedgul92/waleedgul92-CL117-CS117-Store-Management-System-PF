@@ -7,8 +7,8 @@
 Programming Fundamentals is basic and and important concept for a computer science student.Management resources of store is key to flourish your store.We made a store managemnt system with categories and further sub-catergories.
 
 # Authors
-Waleed Gul__
-Abdul-Hanan__
+Waleed Gul_ _
+Abdul-Hanan_ _
 Zubair__
 
 
