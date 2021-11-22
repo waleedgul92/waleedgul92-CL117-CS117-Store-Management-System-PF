@@ -31,7 +31,8 @@ By pressing '2' , you are asked a password which is 'owner123' and then shows al
 1. ​Waleed Gul<br> 
  ​hwaleed0035@gmail.com<br> 
  ​[​LinkedIn​](https://www.linkedin.com/in/waleed-gul-9248881b3/)
-2. Abdul-Hanan
+2. Abdul-Hanan\
+   umerj1812@gmail.com
 3. Zubair
 
 
