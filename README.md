@@ -13,6 +13,13 @@ Programming Fundamentals is basic and and important concept for a computer scien
 * Once all files are download, just compile and run the program.
 ## Features ##
 ### Client ###
+* Fruits
+* Vegetables
+* Dairy Products
+* Beverages
+* Kitchen Products
+* Bakery Products
+* Bathroom Products
           
 # Authors
 1. Waleed Gul\
