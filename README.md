@@ -54,8 +54,8 @@ By pressing '2' , you are asked a password which is 'owner123' and then shows al
 ![Screenshot 2021-11-24 210921](https://user-images.githubusercontent.com/84980384/143274193-f6fe687e-2073-41b6-8af0-03e7f6c55d93.png)
 
 ## Known Issues ##
-The file is reset if client not enter a category amount of orders.
-The categories must be accessed by numbers instead of names
+* The file is reset to only amount you enter, other will be reset.
+* The categories must be accessed by numbers instead of names
 # Authors
 1. ​Waleed Gul<br> 
  ​hwaleed0035@gmail.com<br> 
