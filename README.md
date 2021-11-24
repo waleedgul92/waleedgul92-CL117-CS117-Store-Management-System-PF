@@ -51,3 +51,12 @@ By pressing '2' , you are asked a password which is 'owner123' and then shows al
 
 ![Screenshot 2021-11-24 210921](https://user-images.githubusercontent.com/84980384/143274193-f6fe687e-2073-41b6-8af0-03e7f6c55d93.png)
 
+## Known Issues ##
+# Authors
+1. ​Waleed Gul<br> 
+ ​hwaleed0035@gmail.com<br> 
+ ​[​LinkedIn​](https://www.linkedin.com/in/waleedgul92/)
+2. Abdul-Hanan\
+   umerj1812@gmail.com
+3. Zubair\
+   mzubairadil465@gmail.com
