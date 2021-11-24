@@ -27,4 +27,7 @@ By pressing '1' you are a client and you can order as long as program is running
 * Dairy Products
 
 ![Screenshot 2021-11-24 205613](https://user-images.githubusercontent.com/84980384/143271921-7b09d121-c12f-4aca-8c5c-4fdf45318867.png)
+* Kitchen Products
+
+![Screenshot 2021-11-24 205759](https://user-images.githubusercontent.com/84980384/143272268-3a07a37e-6d8f-445f-9267-ad72c14f0aad.png)
 
