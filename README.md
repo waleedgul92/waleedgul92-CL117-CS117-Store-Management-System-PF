@@ -45,5 +45,9 @@ By pressing '1' you are a client and you can order as long as program is running
 ![Screenshot 2021-11-24 210621](https://user-images.githubusercontent.com/84980384/143273644-6b89c879-ee84-4a2d-b6e6-04c37aed00cf.png)
 
 ### Owner ###
-By pressing '2' , you are asked a password which is 'owner123' and then shows all remaning products from all categories.
-## Known Issues ##
+By pressing '2' , you are asked a password which is 'owner123' and then shows all remaning products from all categories.If password is wrong thrice, the program exit by itself.
+
+![Screenshot 2021-11-24 210921](https://user-images.githubusercontent.com/84980384/143274129-6501b694-c956-49ff-b486-ee4e267508fe.png)
+
+![Screenshot 2021-11-24 210921](https://user-images.githubusercontent.com/84980384/143274193-f6fe687e-2073-41b6-8af0-03e7f6c55d93.png)
+
