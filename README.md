@@ -18,7 +18,7 @@ By pressing '1' you are a client and you can order as long as program is running
 * Fruits
  ![Screenshot 2021-11-22 213826](https://user-images.githubusercontent.com/84980384/142900397-3a20e127-2f1e-4ead-8519-95dfca8ba0f5.png)
 * Vegetables
-* 
+
   ![Screenshot 2021-11-24 205050](https://user-images.githubusercontent.com/84980384/143271066-e65bda26-c372-4073-abe3-148beaf79585.png)
 
 
