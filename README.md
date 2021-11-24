@@ -19,7 +19,7 @@ By pressing '1' you are a client and you can order as long as program is running
  ![Screenshot 2021-11-22 213826](https://user-images.githubusercontent.com/84980384/142900397-3a20e127-2f1e-4ead-8519-95dfca8ba0f5.png)
 * Vegetables
 
-  ![Screenshot 2021-11-24 205050](https://user-images.githubusercontent.com/84980384/143271066-e65bda26-c372-4073-abe3-148beaf79585.png)
+ ![Screenshot 2021-11-24 205050](https://user-images.githubusercontent.com/84980384/143271066-e65bda26-c372-4073-abe3-148beaf79585.png)
 * Beverages
 
 ![Screenshot 2021-11-24 205348](https://user-images.githubusercontent.com/84980384/143271545-285a590f-d73b-4184-9b06-215aebc810f3.png)
