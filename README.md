@@ -36,3 +36,7 @@ By pressing '1' you are a client and you can order as long as program is running
 
 ![Screenshot 2021-11-24 205954](https://user-images.githubusercontent.com/84980384/143272625-e844a97b-f049-437f-9834-388f870b2a4e.png)
 
+* Bathroom Products
+
+![Screenshot 2021-11-24 210141](https://user-images.githubusercontent.com/84980384/143272856-7f160cd2-2734-48ae-84c0-cb67b936d6fd.png)
+
