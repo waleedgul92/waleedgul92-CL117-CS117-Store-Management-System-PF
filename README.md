@@ -31,3 +31,8 @@ By pressing '1' you are a client and you can order as long as program is running
 
 ![Screenshot 2021-11-24 205759](https://user-images.githubusercontent.com/84980384/143272268-3a07a37e-6d8f-445f-9267-ad72c14f0aad.png)
 
+
+* Bakery Products
+
+![Screenshot 2021-11-24 205954](https://user-images.githubusercontent.com/84980384/143272625-e844a97b-f049-437f-9834-388f870b2a4e.png)
+
