@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<string.h>
+#include<math.h>
 int tot_fr,tot_veg,tot_k,tot_d,tot_b,tot_bath,tot_bev,tot_tot;
 int kitchen(FILE *fptr,FILE *ptr,FILE* fptr1);
 char list(FILE *fptr,FILE *ptr,FILE *fptr1);
